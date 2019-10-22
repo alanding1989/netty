@@ -41,3 +41,6 @@ mainframer
 # exclude docker-sync stuff
 .docker-sync
 */.docker-sync
+
+# benchmark
+microbench/
